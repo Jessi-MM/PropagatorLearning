@@ -1,0 +1,15 @@
+====== Time Dependent Potential ======
+| Variable             |      Value |
+|----------------------+------------|
+| V [kcal/mol]         |   10       |
+| w1 [cm^-1]           | 3755.07    |
+| w2 [cm^-1]           | 1730.54    |
+| l [kcal/mol]         |    5.86026 |
+| x_eq [kcal/mol]      |   -8.1157  |
+| w_x [fs^-1]          |    0.0148  |
+| th_x [rad]           |    2.44171 |
+| R_eq [0.1 nm]        |    0.67828 |
+| R_0 [0.1 nm]         |    0.27698 |
+| w_R [cm^-1]          |  283.533   |
+| th_R [rad]           |    5.95707 |
+| m (Proton mass [au]) | 1836       |
